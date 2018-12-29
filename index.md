@@ -21,7 +21,7 @@ I do enjoy working with real data: in my PhD I developed algorithms for extracti
 
 
 ### News
-* Sept 01th, 2019. Started postdoc!
+* Sept 01th, 2018. Started postdoc!
 
 * Feb 14th, 2018. I gave the talk [*Statistical Machine Learning Methods for
                                    Large-scale Neural Data Analysis*](http://www.stat.columbia.edu/~gonzalo/pubs/talks/MLNeuroscience.pdf) at the **Vector Institute**, Toronto.
