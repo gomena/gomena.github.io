@@ -17,5 +17,6 @@ The picture above is from my hometown: Santiago, Chile. There I obtained by B.S.
 I develop robust, efficient and theoretically sound statistical methodology for tackling problems in Computational Biology. My experience is mostly in Neuroscience, but I am open to other problems as well. I am also very interested in computational statistics and machine learning per se, regardless of possible applications. In that sense, I have some experience on computational and statistical aspects of optimal transport, and I am actively doing research in this area.
 
 ### News
-
-Our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. On July 7th [I gave a talk at Optimal Transport: Regularization and Applications workshop](https://otra2020.com).  Slides are available here.
+* July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com).  [Slides are available](https://gomena.github.io/doc/SinkhornEMOtra2020.pdf).
+* July 1th,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
+* June 30th, our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. 
