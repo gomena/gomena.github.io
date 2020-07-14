@@ -18,5 +18,5 @@ I develop robust, efficient and theoretically sound statistical methodology for 
 
 ### News
 * July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com).  [Slides are available](https://gomena.github.io/doc/SinkhornEMOtra2020.pdf).
-* July 1th,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
+* July 1st,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
 * June 30th, our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. 
