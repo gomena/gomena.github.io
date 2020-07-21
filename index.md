@@ -14,7 +14,7 @@ The picture above is from my hometown: Santiago, Chile. There I obtained by B.S.
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in computational biology. My experience is mostly in neuroscience, but I am open to other problems as well. I am also very interested in computational statistics and machine learning per se, regardless of possible applications. In that sense, I have some experience on computational and statistical aspects of optimal transport, and I am actively doing research in this area.
+I develop robust, efficient and theoretically sound statistical methodology for tackling problems in computational biology. My experience is mostly in neuroscience, but I am open to other problems as well. I am also very interested in computational statistics and machine learning per se, regardless of possible applications. In that sense, I have some experience in the computational and statistical aspects of optimal transport, and I am actively doing research in this area.
 
 ### News
 * July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com).  [Slides are available](https://gomena.github.io/doc/SinkhornEMOtra2020.pdf).
