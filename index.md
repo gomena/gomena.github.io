@@ -13,7 +13,7 @@ I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical 
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences. My experience is mostly in neuroscience, but I am open to other problems as well. I am also very interested in computational statistics and machine learning per se, regardless of possible applications. In that sense, I have some experience in the computational and statistical aspects of optimal transport, and I am actively doing research in this area.
+I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences. My experience is mostly in neuroscience and digital epidemiology, but I am open to other problems as well. I am also very interested in computational statistics and machine learning per se, regardless of possible applications. In that sense, I have some experience in the computational and statistical aspects of optimal transport, and I am actively doing research in this area.
 
 ### News
 * April 28th,2021 our work on the impact of COVID-19 in Santiago, Chile [has been published in Science](https://science.sciencemag.org/content/early/2021/04/26/science.abg5298). This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.
