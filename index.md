@@ -17,7 +17,7 @@ I develop robust, efficient and theoretically sound statistical methodology for 
 
 ### News
 * May 9th, 2021. I will present my work on inference of stratified infection fatality rates [in the End-to-end Bayesian learning international conference](https://bayesatcirm.github.io/). This conference will take place 25-29th October 2021, in Marseille, France.
-* (https://science.sciencemag.org/content/early/2021/04/26/science.abg5298). This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.
+* April 28th,2021 our work on the impact of COVID-19 in Santiago, Chile [has been published in Science](https://science.sciencemag.org/content/early/2021/04/26/science.abg5298). This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.
 * Jan 07th,2021 our work on neural identification in colorful C.elegans worms [has been published in Cell](https://www.cell.com/cell/fulltext/S0092-8674(20)31682-2). This is joint work with Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Aravinthan DT Samuel, Liam Paninski, Vivek Venkatachalam and Oliver Hobert
 * July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com).  [Slides are available](https://gomena.github.io/doc/SinkhornEMOtra2020.pdf).
 * July 1st,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
