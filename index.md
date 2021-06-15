@@ -13,7 +13,7 @@ I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical 
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences that involve data. My experience is mostly in neuroscience and epidemiology, but I am open to other problems as well. On a more theoretical side, I am interested in enhancing our understanding of the statistical and computational aspects of entropic optimal transport, so new statistical procedures and algorithms can be derived. Finally, I am interested in the representation of complex combinatorial objects, such as permutations, from a machine learning perspective.
+I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences that involve data. My experience is mostly in neuroscience and epidemiology, but I am open to other problems as well. On a more theoretical side, I am interested in enhancing our understanding of the statistical and computational aspects of entropic optimal transport, so new statistical procedures and algorithms can be derived. Finally, from a machine learning perspective, I am interested in the representation of complex combinatorial objects, such as permutations.
 
 ### News
 * May 9th, 2021. I will present my work on inference of stratified infection fatality rates [in the End-to-end Bayesian learning international conference](https://bayesatcirm.github.io/). This conference will take place 25-29th October 2021, in Marseille, France.
