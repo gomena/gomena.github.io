@@ -30,12 +30,12 @@ links:
 
   - title: Publications
     url: /publications/
-  - title: Blog
-    url: /blog/
+  #- title: Blog
+  #  url: /blog/
   - title: Curriculum
     url: /cv/
-  - title: Links
-    url: /links/
+  #- title: Links
+  #  url: /links/
   - title: Miscelaneous
     url: /misc/
 
