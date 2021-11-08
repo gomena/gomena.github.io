@@ -8,7 +8,6 @@ comments: false
 ---
 
 
-It all started when my father taught me some notions of Visual Basic, and with the priceless help of the code completion tool (yeah, no Google at that time). Since then, I've been enjoying coding and here you can find some of the programs I've written.
 
 ### Notes (*Warning: non-peer reviewed*)
 Some notes I have written over the years. They don't have enough stuff to qualify as a paper, but happy if anyone can find them useful 
