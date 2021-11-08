@@ -15,8 +15,11 @@ I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical 
 
 I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences that involve data. My experience is mostly in neuroscience and epidemiology, but I am open to other problems as well. On a more theoretical side, I am interested in enhancing our understanding of the statistical and computational aspects of entropic optimal transport, so new statistical procedures and algorithms can be derived. Finally, from a machine learning perspective, I am interested in the representation of complex combinatorial objects, such as permutations.
 
+The most up-to date list of my publicly available scholarly work is available at my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao).
+
+
 ### News
-* Nov 8th, 2021. I will present my work on the Sinkhorn Algorithm in the [Seminar in Statistics at Colegio Carlo Alberto, Torino, Italy]) on 26th November, 2021
+* Nov 8th, 2021. I will present my work on the Sinkhorn Algorithm in the [Seminar in Statistics at Colegio Carlo Alberto, Torino, Italy](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/?tribe-bar-date=2021-09-01) on 26th November, 2021
 * Sept 1st, 2021. I will present my work on Entropic Optimal Tranport [in the Schrödinger Problem and Mean-field PDE Systems: Computational and Theoretical Advances](https://conferences.cirm-math.fr/2413.html). This conference will take place 15-19th November 2021, at CIRM, Marseille, France.
 * May 9th, 2021. I will present my work on inference of stratified infection fatality rates [in the End-to-end Bayesian learning international conference](https://bayesatcirm.github.io/). This conference will take place 25-29th October 2021, at CIRM, in Marseille, France.
 * April 28th,2021 our work on the impact of COVID-19 in Santiago, Chile [has been published in Science](https://science.sciencemag.org/content/early/2021/04/26/science.abg5298). This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.
