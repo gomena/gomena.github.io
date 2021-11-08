@@ -33,8 +33,10 @@ You can go to my [Google Scholar profile](https://scholar.google.com/citations?u
 * July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com). 
 * July 1st,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
 * June 30th, our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. 
+
+
 ### Other
-* Since September 2021, I am part of the Equality, Diversity and Inclusion Committee at the Statistics Department, University of Oxford.
-* Since September 2021, I am a Lecturer at Corpus Christi College, and a Senior Lecturer at a University College.
+* Since September 2021, I am part of the Equality, Diversity and Inclusion Committee at the  Department of Statistics, University of Oxford.
+* Since September 2021, I am a Lecturer at Corpus Christi College, and a Senior Lecturer at a University College, Oxford.
 * Since July 2020, I co-organize the [Oxford Computational Statistics and Machine Learning (OxCSML) Seminar](https://github.com/oxcsml/ML_bazaar/wiki/Seminar)
 
