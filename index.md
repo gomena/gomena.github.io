@@ -6,7 +6,13 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 <br>
-I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). Previously, I did my PhD in Statistics at Columbia University mentored by [Liam Paninski](http://www.stat.columbia.edu/~liam/), where I developed algorithms for extracting neural signals from recordings.
+I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. 
+\
+\
+Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
+\
+\
+Previously, I did my PhD in Statistics at Columbia University mentored by [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 \
 \
 I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
