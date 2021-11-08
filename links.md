@@ -1,12 +1,16 @@
 ---
 layout: page
-title: Links
-permalink: /links/
-title: Links
+title: Teaching
+permalink: /Teaching/
+title: Teaching
 comments: false
 ---
+### 2022. Hilary Term
+Advanced Simulation. University of Oxford. (Joint with Jun Jang)
+### 2021. Hilary Term
 
-* [Columbia Advanced Machine Learning Seminar](https://casmls.github.io/)
-* [Andrew Gelman's Blog](http://andrewgelman.com)
-* [Grossman Center for the Statistics of Mind](http://grossmancenter.columbia.edu/)
-* [Statistics Department, Columbia University](http://stat.columbia.edu/)
+Advanced Simulation. University of Oxford. (Joint with Jun Jang)
+
+### 2015
+
+Introduction to Statistics with Calculus. Columbia University
