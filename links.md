@@ -11,6 +11,6 @@ Advanced Simulation. University of Oxford. (Joint with Jun Jang)
 
 Advanced Simulation. University of Oxford. (Joint with Jun Jang)
 
-### 2015
+### 2015. Summer Term.
 
 Introduction to Statistics with Calculus. Columbia University
