@@ -20,7 +20,7 @@ I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical 
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested from tools coming from Bayesian statistics, as it provides us with a common scientific language for drawing inferences and imposing constrains based on our beliefs, and for which inference tools are widely available, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic optimal transport in order to derive new sensible statistical procedures.
+I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic optimal transport in order to derive new sensible statistical procedures.
 \
 \
 The most up-to date list of my publicly available scholarly work is available at my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao).
