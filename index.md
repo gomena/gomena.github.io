@@ -20,10 +20,11 @@ I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical 
 I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic optimal transport in order to derive new sensible statistical procedures.
 \
 \
-You can go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work.
+Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work.
 
 
 ### News/Highlights
+* I will attend the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program (April-May, 2022) at the [IMSI institute, Chicago](https://www.imsi.institute/) in Chicago, and will present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
 * Our work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) was selected for a spotlight presentation at the [Optimal Transport and Machine Learning Workshop at NeuRIPS](https://otml2021.github.io/) on 13th December, 2021
 * I am presenting my work on the Sinkhorn Algorithm in the [Seminar in Statistics at Collegio Carlo Alberto, Torino, Italy](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/?tribe-bar-date=2021-09-01) on 26th November, 2021
 * I am presenting my work on Entropic Optimal Tranport [in the Schrödinger Problem and Mean-field PDE Systems: Computational and Theoretical Advances](https://conferences.cirm-math.fr/2413.html). This conference will take place 15-19th November 2021, at CIRM, Marseille, France.
