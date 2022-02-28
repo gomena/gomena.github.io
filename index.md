@@ -24,7 +24,7 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### News/Highlights
-* I will attend the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program (April-May, 2022) at the [IMSI institute, Chicago](https://www.imsi.institute/) in Chicago, and will present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
+* I will attend the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program (April-May, 2022) at the [IMSI institute, Chicago](https://www.imsi.institute/), where I will also present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
 * Our work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) was selected for a spotlight presentation at the [Optimal Transport and Machine Learning Workshop at NeuRIPS](https://otml2021.github.io/) on 13th December, 2021
 * I am presenting my work on the Sinkhorn Algorithm in the [Seminar in Statistics at Collegio Carlo Alberto, Torino, Italy](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/?tribe-bar-date=2021-09-01) on 26th November, 2021
 * I am presenting my work on Entropic Optimal Tranport [in the Schrödinger Problem and Mean-field PDE Systems: Computational and Theoretical Advances](https://conferences.cirm-math.fr/2413.html). This conference will take place 15-19th November 2021, at CIRM, Marseille, France.
