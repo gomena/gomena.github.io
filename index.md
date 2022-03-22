@@ -12,12 +12,12 @@ Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu
 \
 Previously, I did my PhD in Statistics at Columbia University mentored by [Liam Paninski](http://www.stat.columbia.edu/~liam/).
 \
-I am originally from Santiago, Chile. There I obtained by B.S. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
+I am originally from Santiago, Chile. There I obtained by B.Sc. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic optimal transport in order to derive new sensible statistical procedures.
+I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic Optimal Transport in order to derive new sensible statistical procedures.
 \
 \
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work.
