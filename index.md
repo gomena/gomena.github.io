@@ -22,7 +22,6 @@ I develop robust, efficient and theoretically sound statistical methodology for 
 \
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work.
 
-*I am currently on the academic job market*
 
 ### News/Highlights
 * I am attending the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program (April-May, 2022) at the [IMSI institute, Chicago](https://www.imsi.institute/), where I will also present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
