@@ -17,11 +17,10 @@ I am originally from Santiago, Chile. There, I obtained by B.Sc. in [Mathematica
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling problems in life sciences involving data. My experience comes from Neuroscience and Epidemiology, but I am always eager to explore challenges in other fields as well. I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic Optimal Transport in order to derive new sensible statistical procedures.
-
-
-Throughout my career I have dealt with datasets at two extremes: some of them are the output of cutting-edge technologies (e.g. a new microscope), where I developed methods to `crack' these datasets, i.e. to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme there are the massive routinely collected `cheap' data (e.g. epidemiological surveillance) and my goal there has been to propose frameworks to draw valid inferences out of these inherently corrupted, biased data, and to combine them with more reliable data.
-
+I develop robust, efficient and theoretically sound statistical methodology for tackling challenging problems in life sciences involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience they are the output of cutting-edge technologies (e.g. a new microscope), where I develop methods to crack these datasets, i.e. to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance) and my goal there isto propose frameworks to draw valid inferences out of these inherently corrupted, biased data, and to combine them with more reliable data.
+\
+\
+I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic Optimal Transport in order to derive new sensible statistical procedures. I am always open to other statistical frameworks and to address new pressing scientific and societal problems.
 \
 \
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work. My CV is available [here](http://gomena.github.io/doc/CV.pdf)
