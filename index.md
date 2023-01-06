@@ -27,11 +27,11 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 
 
 ### News/Highlights
-* Jan 2022. I will soon seminar talks at 
-  - Jan 20th, 2023, [University of Massachussestts Amherst, School of Public Health and Health Sciences (Biostatistics)](https://www.umass.edu/public-health-sciences/).
-  - Feb 6th, 2023 [Carnegie Mellon University, Statistics & Data Science Department](https://www.cmu.edu/dietrich/statistics-datascience).
-  - Feb 8th, 2023 [UCLA, Statistics Department](http://statistics.ucla.edu/).
-  - Feb 24th, 2023 [UIUC, Department of Statistics](https://stat.illinois.edu/).
+* Jan 6th 2023. I will soon give seminar talks at 
+  - Jan 20th,  [University of Massachussestts Amherst, School of Public Health and Health Sciences (Biostatistics)](https://www.umass.edu/public-health-sciences/).
+  - Feb 6th, [Carnegie Mellon University, Statistics & Data Science Department](https://www.cmu.edu/dietrich/statistics-datascience).
+  - Feb 8th, [UCLA, Statistics Department](http://statistics.ucla.edu/).
+  - Feb 24th, [UIUC, Department of Statistics](https://stat.illinois.edu/).
 
 * Dec 2022. On Dec 13th I am giving a talk for (Stochastics Seminar). in the the [Department of Mathematics, Aarhus University](https://math.au.dk/en/) 
 * May 2022. I was named a 'Chilean Leader' By [Revista Sabado](https://twitter.com/revista_sabado) (from [El Mercurio](http://www.emol.com)), main newspaper in Chile) and [Universidad Adolfo Ibañez](https://www.uai.cl/en/). As a result, I was spotlighted by the [Columbia Global Centers](https://globalcenters.columbia.edu/news/alumni-spotlight-gonzalo-mena) and the [Statistics Department at Columbia University](https://stat.columbia.edu/2022/06/01/congratulations-to-gonzalo-mena-on-being-recently-acknowledged-as-one-of-chiles-young-leaders-for-his-work-in-artificial-intelligence-in-the-solving-of-complex-phenomenon/).
