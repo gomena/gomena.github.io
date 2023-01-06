@@ -49,6 +49,5 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 
 ### Other
 * Since September 2021, I am part of the Equality, Diversity and Inclusion Committee at the  Department of Statistics, University of Oxford.
-* Since September 2021, I am a Lecturer at Corpus Christi College, and a Senior Lecturer at a University College, Oxford.
 * Since July 2020, I co-organize the [Oxford Computational Statistics and Machine Learning (OxCSML) Seminar](https://github.com/oxcsml/ML_bazaar/wiki/Seminar)
 
