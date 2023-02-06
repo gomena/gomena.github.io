@@ -36,8 +36,8 @@ links:
     url: /cv/
   - title: Teaching
     url: /Teaching/
-  #- title: Miscelaneous
-  #  url: /misc/
+  - title: Miscelaneous
+    url: /misc/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
