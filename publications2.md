@@ -2,7 +2,7 @@
 layout: publications2
 permalink: /publications2/
 title: My Publications
-tags: [publications]
+tags: [publications2]
 modified: 8-7-2014
 comments: false
 ---
