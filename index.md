@@ -6,7 +6,10 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 ---
 <br>
-I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. 
+I am an Assistant Professor in the [Department of Statistics and Data Science](https://www.cmu.edu/dietrich/statistics-datascience/) at [Carnegie Mellon University](https://www.cmu.edu/). 
+
+### Brief bio sketch
+Before joining CMU to that I was Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. 
 \
 Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
 \
