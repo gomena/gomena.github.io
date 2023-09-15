@@ -29,8 +29,9 @@ I am particularly interested in using/analyzing tools coming from Bayesian stati
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work. My CV is available [here](http://gomena.github.io/doc/CV.pdf)
 
 ### Contact information:
-Email: gmena AT andrew DOT cmu DOT edu
-Office Address: 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA
+*Email:* gmena AT andrew DOT cmu DOT edu 
+\
+*Office Address:* 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA
 
 ### News/Highlights
 * Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://sites.google.com/view/icsds2023)
