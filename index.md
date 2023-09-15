@@ -28,9 +28,13 @@ I am particularly interested in using/analyzing tools coming from Bayesian stati
 \
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work. My CV is available [here](http://gomena.github.io/doc/CV.pdf)
 
+### Contact information:
+Email: gmena AT andrew DOT cmu DOT edu
+Office Address: 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA
 
 ### News/Highlights
-
+* Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://sites.google.com/view/icsds2023)
+* Sept 2023. I started my new position as Assistant Professor in the Deparment of Statistics and Data Science at CMU.
 * Dec 2022. On Dec 13th I am giving a talk for (Stochastics Seminar). in the the [Department of Mathematics, Aarhus University](https://math.au.dk/en/) 
 * May 2022. I was named a 'Chilean Leader' By [Revista Sabado](https://twitter.com/revista_sabado) (from [El Mercurio](http://www.emol.com)), main newspaper in Chile) and [Universidad Adolfo Ibañez](https://www.uai.cl/en/). As a result, I was spotlighted by the [Columbia Global Centers](https://globalcenters.columbia.edu/news/alumni-spotlight-gonzalo-mena) and the [Statistics Department at Columbia University](https://stat.columbia.edu/2022/06/01/congratulations-to-gonzalo-mena-on-being-recently-acknowledged-as-one-of-chiles-young-leaders-for-his-work-in-artificial-intelligence-in-the-solving-of-complex-phenomenon/).
 * April-May 2022. I am attending the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program  at the [IMSI institute, Chicago](https://www.imsi.institute/), where I will also present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
