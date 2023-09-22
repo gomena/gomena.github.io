@@ -11,9 +11,9 @@ I am an Assistant Professor in the [Department of Statistics and Data Science](h
 ### Brief bio sketch
 Before joining CMU I was Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. 
 \
-Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, working in the lab of [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
+Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, mentored [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
 \
-Previously, I did my PhD in Statistics at Columbia University mentored by [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD I did an internship in Google Brain (Cambridge, MA) hosted by Jasper Snoek.
+Previously, I did my PhD in Statistics at Columbia University advised by [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD I did an internship in Google Brain (Cambridge, MA) hosted by Jasper Snoek.
 \
 I am originally from Santiago, Chile. There, I obtained by B.Sc. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
@@ -31,7 +31,7 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 ### Contact information:
 *Email:* gmena AT andrew DOT cmu DOT edu 
 \
-*Office Address:* 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA
+*Office Address:* 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA 15213
 
 ### News/Highlights
 * Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://sites.google.com/view/icsds2023)
