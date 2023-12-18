@@ -34,7 +34,7 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 *Office Address:* 229I Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA 15213
 
 ### News/Highlights
-* Dec 18, 2023. Preprint (draft) of my new work ['On model-based clustering with entropic optimal transport' available here.] It will appear on the ArXiv in late 2023.
+* Dec 18, 2023. Preprint (draft) of my new work [On model-based clustering with entropic optimal transport' available here.](https://gomena.github.io/docs/ClusteringEntropicOT.pdf) It will appear on the ArXiv in late 2023.
 * Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://gomena.github.io/docs/ClusteringEntropicOT.pdf).
 * Sept 2023. I started my new position as Assistant Professor in the Deparment of Statistics and Data Science at CMU.
 * Dec 2022. On Dec 13th I am giving a talk for (Stochastics Seminar). in the the [Department of Mathematics, Aarhus University](https://math.au.dk/en/) 
