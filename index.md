@@ -13,20 +13,20 @@ Before joining CMU I was a Florence Nightingale Bicentennial Fellow and Tutor in
 \
 Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, mentored [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
 \
-Previously, I did my PhD in Statistics at Columbia University advised by [Liam Paninski](http://www.stat.columbia.edu/~liam/). During my PhD I did an internship in Google Brain (Cambridge, MA) hosted by Jasper Snoek.
+Previously, I did my PhD in Statistics at Columbia University, advised by [Liam Paninski](http://www.stat.columbia.edu/liam/). During my PhD, I did an internship at Google Brain (Cambridge, MA), hosted by Jasper Snoek.
 \
 I am originally from Santiago, Chile. There, I obtained by B.Sc. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
 
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling challenging and pressing problems in life sciences involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience they are the output of cutting-edge technologies (e.g. a new microscope), where I develop methods to crack these datasets, i.e. to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance); my goal there is to propose frameworks to draw valid inferences out of these inherently corrupted, biased data, and to combine them with more reliable data.
+I develop robust, efficient and theoretically sound statistical methodology for tackling challenging and pressing problems in life sciences involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience, they are the output of cutting-edge technologies (e.g. a new microscope), where I develop methods to crack these datasets, i.e. to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme, there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance); my goal here is to propose frameworks to draw valid inferences out of these inherently corrupted, biased data and to combine them with more reliable data.
 \
 \
 I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic Optimal Transport in order to derive new sensible statistical procedures. I am always open to other statistical frameworks and to address scientific and societal problems.
 \
 \
-Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to date list of my publicly available scholarly work. My CV is available [here](http://gomena.github.io/doc/CV.pdf)
+Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to-date list of my publicly available scholarly work. 
 
 ### Contact information:
 *Email:* gmena AT andrew DOT cmu DOT edu 
