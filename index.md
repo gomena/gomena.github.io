@@ -11,7 +11,7 @@ I am an Assistant Professor in the [Department of Statistics and Data Science](h
 ### Brief bio sketch
 Before joining CMU I was a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. 
 \
-Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, mentored [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
+Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, mentored by [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). 
 \
 Previously, I did my PhD in Statistics at Columbia University, advised by [Liam Paninski](http://www.stat.columbia.edu/liam/). During my PhD, I did an internship at Google Brain (Cambridge, MA), hosted by Jasper Snoek.
 \
@@ -20,7 +20,7 @@ I am originally from Santiago, Chile. There, I obtained by B.Sc. in [Mathematica
 
 ### Research
 
-I develop robust, efficient and theoretically sound statistical methodology for tackling challenging problems in life sciences involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience, they are the output of cutting-edge technologies (e.g. a new microscope), where I develop methods to crack these datasets, i.e. to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme, there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance); my goal here is to propose frameworks to draw valid inferences out of these inherently corrupted, biased data and to combine them with more reliable data.
+I develop robust, efficient, and theoretically sound statistical methodology for tackling challenging life sciences problems involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience, they are the output of cutting-edge technologies (e.g., a new microscope), where I develop methods to crack these datasets, i.e., to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme, there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance); my goal here is to propose frameworks to draw valid inferences out of these inherently corrupted, biased data and to combine them with more reliable data.
 \
 \
 I am particularly interested in using/analyzing tools coming from Bayesian statistics, because of its practical appeal, and from Optimal Transport, where I have grown a more theoretical/methodological interest; I explore the computational and statistical aspects of entropic Optimal Transport in order to derive new sensible statistical procedures. I am always open to other statistical frameworks and to address scientific and societal problems.
