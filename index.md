@@ -56,7 +56,4 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 * June 30th, 2020, our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. 
 
 
-### Other
-* Since September 2021, I am part of the Equality, Diversity and Inclusion Committee at the  Department of Statistics, University of Oxford.
-* Since July 2020, I co-organize the [Oxford Computational Statistics and Machine Learning (OxCSML) Seminar](https://github.com/oxcsml/ML_bazaar/wiki/Seminar)
 
