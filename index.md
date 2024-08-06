@@ -27,6 +27,8 @@ I am particularly interested in using/analyzing tools coming from Bayesian stati
 \
 \
 My research is supported by NSF grant  [DMS-2412895](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412895)
+\
+\
 Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to-date list of my publicly available scholarly work. 
 
 ### Contact information:
