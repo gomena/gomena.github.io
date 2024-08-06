@@ -37,7 +37,7 @@ Please go to my [Google Scholar profile](https://scholar.google.com/citations?us
 *Office Address:* 229i Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA 15213
 
 ### News/Highlights
-* August, 6th, 2024. I am presenting the work  On the risk of a cross-validated shrinkage estimator in the linear model. In the 'New Methods for Integrative and Adaptive Analysis' contributed session at JSM (Portland, Oregon). [A preliminary rough draft is available]()
+* August 6th, 2024. I am presenting the work  On the risk of a cross-validated shrinkage estimator in the linear model. In the 'New Methods for Integrative and Adaptive Analysis' contributed session at JSM (Portland, Oregon). [A preliminary rough draft is available](https://gomena.github.io/docs/RoughCombining.pdf)
 * July, 2024. I was awarded a [NSF DMS grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412895)on the theoretical, applied, and methodological aspects of entropic optimal transport.
 * Dec 18, 2023. Preprint (draft) of my new work [On model-based clustering with entropic optimal transport' available here.](https://gomena.github.io/docs/ClusteringEntropicOT.pdf) It will appear on the ArXiv in early 2024.
 * Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://gomena.github.io/docs/ClusteringEntropicOT.pdf).
