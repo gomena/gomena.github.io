@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Academic website"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      
+    right:
+    - text: "Teaching"
+      href: teaching.qmd
+    - text: "Highlights"
+      href: highlights.qmd
+    - text: "Publications"
+      href: publications.qmd
+    - text: "CV"
+      href: cv.qmd
+
+format:
+  html:
+    theme: simplex
+    css: styles.css
+    toc: true
+    page-layout: full
+
+editor: visual
+

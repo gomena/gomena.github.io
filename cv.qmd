@@ -1,0 +1,6 @@
+---
+title: "CV"
+---
+
+Here is my [full CV](https://gomena.github.io/doc/CVGonzalo.pdf).
+

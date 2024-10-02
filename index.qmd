@@ -1,0 +1,43 @@
+---
+title: "Gonzalo Mena"
+image: media/GonzaloLight2.jpg
+toc: false
+about:
+  template: trestles
+  image-shape: rectangle
+  image-width: 15em
+  links:
+    - icon: linkedin 
+      href: https://www.linkedin.com/in/gomena/
+    - icon: github
+      href: https://github.com/gomena
+    - icon: envelope
+      href: mailto:gmena@andrew.cmu.edu
+    - text: X
+      href: https://x.com/mena_gonzalo
+    - text: Google scholar
+      href: https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao
+---
+
+<br> I am an Assistant Professor in the [Department of Statistics and Data Science](https://www.cmu.edu/dietrich/statistics-datascience/) at [Carnegie Mellon University](https://www.cmu.edu/).
+
+### Brief bio sketch
+
+Before joining CMU I was a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at the University of Oxford. Prior to that, I was a [Data Science Initiative](https://datascience.harvard.edu/) Postdoctoral Fellow at Harvard University, mentored by [Pierre Jacob](https://sites.google.com/site/pierrejacob/?pli=1&authuser=1). Previously, I did my PhD in Statistics at Columbia University, advised by [Liam Paninski](http://www.stat.columbia.edu/liam/). I am originally from Santiago, Chile. There, I obtained by B.Sc. in [Mathematical Engineering](http://www.dim.uchile.cl/) at [Universidad de Chile](http://www.uchile.cl).
+
+### Research
+
+I develop robust, efficient, and theoretically sound statistical methodology for tackling challenging life sciences problems involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience, they are the output of cutting-edge technologies (e.g., a new microscope), where I develop methods to crack these datasets, i.e., to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme, there are the massive routinely collected "cheap" data (e.g. epidemiological surveillance); my goal here is to develop frameworks to draw valid inferences out of these inherently corrupted, biased data, and combine them with more traditional and reliable sources.\
+\
+As also have a stand-alone interest in the emerging field of statistical optimal transport. I derive and study statistical procedures arising from the mathematical framework of optimal transport, a mathematical framework that provides us with powerful tools to e.g., measure the distance between distributions, and turn one distribution into another.
+
+\
+\
+My research is supported by NSF grant [DMS-2412895](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412895)\
+\
+Please go to my [Google Scholar profile](https://scholar.google.com/citations?user=TJlkOdcAAAAJ&hl=en&oi=ao) for the most up-to-date list of my publicly available scholarly work.
+
+### Contact information:
+
+*Email:* gmena AT andrew DOT cmu DOT edu\
+*Office Address:* 229i Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA 15213

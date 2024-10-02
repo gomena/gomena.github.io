@@ -1,0 +1,25 @@
+---
+title: "Highlights"
+---
+
+### News/Highlights
+* August 6th, 2024. I am presenting the work  On the risk of a cross-validated shrinkage estimator in the linear model. In the 'New Methods for Integrative and Adaptive Analysis' contributed session at JSM (Portland, Oregon). 
+* July, 2024. I was awarded a [NSF DMS grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2412895)on the theoretical, applied, and methodological aspects of entropic optimal transport.
+* Dec 18, 2023. Preprint (draft) of my new work [On model-based clustering with entropic optimal transport' available here.](https://gomena.github.io/docs/ClusteringEntropicOT.pdf) It will appear on the ArXiv in early 2024.
+* Dec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the [2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon](https://gomena.github.io/docs/ClusteringEntropicOT.pdf).
+* Sept 2023. I started my new position as Assistant Professor in the Deparment of Statistics and Data Science at CMU.
+* Dec 2022. On Dec 13th I am giving a talk for (Stochastics Seminar). in the the [Department of Mathematics, Aarhus University](https://math.au.dk/en/) 
+* May 2022. I was named a 'Chilean Leader' By [Revista Sabado](https://twitter.com/revista_sabado) (from [El Mercurio](http://www.emol.com)), main newspaper in Chile) and [Universidad Adolfo Ibañez](https://www.uai.cl/en/). As a result, I was spotlighted by the [Columbia Global Centers](https://globalcenters.columbia.edu/news/alumni-spotlight-gonzalo-mena) and the [Statistics Department at Columbia University](https://stat.columbia.edu/2022/06/01/congratulations-to-gonzalo-mena-on-being-recently-acknowledged-as-one-of-chiles-young-leaders-for-his-work-in-artificial-intelligence-in-the-solving-of-complex-phenomenon/).
+* April-May 2022. I am attending the [Decision Making and Uncertainty](https://www.imsi.institute/activities/decision-making-and-uncertainty/) long program  at the [IMSI institute, Chicago](https://www.imsi.institute/), where I will also present my most recent work in the [Applied Optimal Transport workshop (May 16th-May 20th, 2022)](https://www.imsi.institute/activities/applied-optimal-transport/).
+* December 13th, 2021. I am presenting our work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) as a spotlight talk at the [Optimal Transport and Machine Learning Workshop at NeuRIPS](https://otml2021.github.io/).
+* Nov 26th, 2021. I am presenting my work on the Sinkhorn Algorithm in the [Seminar in Statistics at Collegio Carlo Alberto, Torino, Italy](https://www.carloalberto.org/events/category/seminars/seminars-in-statistics/?tribe-bar-date=2021-09-01).
+* November, 2021. I am presenting my work on Entropic Optimal Tranport [in the Schrödinger Problem and Mean-field PDE Systems: Computational and Theoretical Advances](https://conferences.cirm-math.fr/2413.html)  at CIRM, Marseille, France.
+* October 2021 I am presenting my work on inference of stratified infection fatality rates [in the End-to-end Bayesian learning international conference](https://bayesatcirm.github.io/ at at CIRM,  Marseille, France.
+* April 28th,2021 our work on the impact of COVID-19 in Santiago, Chile [has been published in Science](https://science.sciencemag.org/content/early/2021/04/26/science.abg5298). This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.
+* Jan 07th,2021 our work on neural identification in colorful C.elegans worms [has been published in Cell](https://www.cell.com/cell/fulltext/S0092-8674(20)31682-2). This is joint work with Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Aravinthan DT Samuel, Liam Paninski, Vivek Venkatachalam and Oliver Hobert
+* July 7th,2020 [I gave a talk at Optimal Transport: Regularization and Applications Workshop](https://otra2020.com). 
+* July 1st,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in [Computational Statistics and Machine Learning](http://csml.stats.ox.ac.uk/) at University of Oxford. 
+* June 30th, 2020, our new work on [Sinkhorn EM algorithm](https://arxiv.org/abs/2006.16548) (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint. 
+
+
+

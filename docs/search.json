@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Hola",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Here is my full CV."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "You can browse my Google Scholar profile for the most up-to date list of my publicly available scholarly work."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "2024. Fall\nUndergraduate Research / Corporate Captsone (36-490/36-497). Joint with Aaditya Ramdas). CMU\n\n\n2024. Spring\nStatistical Practice 36-690 (Joint with Nynke Niezink). CMU\n\n\n2023. Hilary Term\nAdvanced Simulation. University of Oxford. (Joint with Jun Yang)\n\n\n2022. Hilary Term\nAdvanced Simulation. University of Oxford. (Joint with Jun Yang)\n\n\n2021. Hilary Term Advanced Simulation.\nUniversity of Oxford. (Joint with Jun Yang) ### 2015. Summer Term. Introduction to Statistics with Calculus. Columbia University"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "gomena2.github.io",
+    "title": "Gonzalo Mena",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "I am an Assistant Professor in the Department of Statistics and Data Science at Carnegie Mellon University.\n\nBrief bio sketch\nBefore joining CMU I was a Florence Nightingale Bicentennial Fellow and Tutor in Computational Statistics and Machine Learning at the University of Oxford. Prior to that, I was a Data Science Initiative Postdoctoral Fellow at Harvard University, mentored by Pierre Jacob. Previously, I did my PhD in Statistics at Columbia University, advised by Liam Paninski. I am originally from Santiago, Chile. There, I obtained by B.Sc. in Mathematical Engineering at Universidad de Chile.\n\n\nResearch\nI develop robust, efficient, and theoretically sound statistical methodology for tackling challenging life sciences problems involving data. My experience comes from neuroscience and epidemiology, where datasets are of two extreme types. In neuroscience, they are the output of cutting-edge technologies (e.g., a new microscope), where I develop methods to crack these datasets, i.e., to extract the relevant signals at scale and reasonable time, accelerating scientific discovery. At the other extreme, there are the massive routinely collected “cheap” data (e.g. epidemiological surveillance); my goal here is to develop frameworks to draw valid inferences out of these inherently corrupted, biased data, and combine them with more traditional and reliable sources.\n\nAs also have a stand-alone interest in the emerging field of statistical optimal transport. I derive and study statistical procedures arising from the mathematical framework of optimal transport, a mathematical framework that provides us with powerful tools to e.g., measure the distance between distributions, and turn one distribution into another.\n\n\nMy research is supported by NSF grant DMS-2412895\n\nPlease go to my Google Scholar profile for the most up-to-date list of my publicly available scholarly work.\n\n\nContact information:\nEmail: gmena AT andrew DOT cmu DOT edu\nOffice Address: 229i Baker Hall, 5000 Forbes Avenue, Pittsburgh, PA 15213"
+  },
+  {
+    "objectID": "highlights.html",
+    "href": "highlights.html",
+    "title": "Highlights",
+    "section": "",
+    "text": "News/Highlights\n\nAugust 6th, 2024. I am presenting the work On the risk of a cross-validated shrinkage estimator in the linear model. In the ‘New Methods for Integrative and Adaptive Analysis’ contributed session at JSM (Portland, Oregon).\nJuly, 2024. I was awarded a NSF DMS granton the theoretical, applied, and methodological aspects of entropic optimal transport.\nDec 18, 2023. Preprint (draft) of my new work On model-based clustering with entropic optimal transport’ available here. It will appear on the ArXiv in early 2024.\nDec 18-19, 2023. I am giving an invited talk on the Optimal Transport session at the 2023 IMS International Conference on Statistics and Data Science (ICSDS) in Portugal, Lisbon.\nSept 2023. I started my new position as Assistant Professor in the Deparment of Statistics and Data Science at CMU.\nDec 2022. On Dec 13th I am giving a talk for (Stochastics Seminar). in the the Department of Mathematics, Aarhus University\nMay 2022. I was named a ‘Chilean Leader’ By Revista Sabado (from El Mercurio), main newspaper in Chile) and Universidad Adolfo Ibañez. As a result, I was spotlighted by the Columbia Global Centers and the Statistics Department at Columbia University.\nApril-May 2022. I am attending the Decision Making and Uncertainty long program at the IMSI institute, Chicago, where I will also present my most recent work in the Applied Optimal Transport workshop (May 16th-May 20th, 2022).\nDecember 13th, 2021. I am presenting our work on Sinkhorn EM algorithm as a spotlight talk at the Optimal Transport and Machine Learning Workshop at NeuRIPS.\nNov 26th, 2021. I am presenting my work on the Sinkhorn Algorithm in the Seminar in Statistics at Collegio Carlo Alberto, Torino, Italy.\nNovember, 2021. I am presenting my work on Entropic Optimal Tranport in the Schrödinger Problem and Mean-field PDE Systems: Computational and Theoretical Advances at CIRM, Marseille, France.\nOctober 2021 I am presenting my work on inference of stratified infection fatality rates [in the End-to-end Bayesian learning international conference](https://bayesatcirm.github.io/ at at CIRM, Marseille, France.\nApril 28th,2021 our work on the impact of COVID-19 in Santiago, Chile has been published in Science. This is joint work with Pamela Martinez (co-first author), Ayesha Mahmud, Pablo Marquet, Caroline Buckee and Mauricio Santillana.\nJan 07th,2021 our work on neural identification in colorful C.elegans worms has been published in Cell. This is joint work with Eviatar Yemini, Albert Lin, Amin Nejatbakhsh, Erdem Varol, Ruoxi Sun, Aravinthan DT Samuel, Liam Paninski, Vivek Venkatachalam and Oliver Hobert\nJuly 7th,2020 I gave a talk at Optimal Transport: Regularization and Applications Workshop.\nJuly 1st,2020 Started a new position as I am a Florence Nightingale Bicentennial Fellow and Tutor in Computational Statistics and Machine Learning at University of Oxford.\nJune 30th, 2020, our new work on Sinkhorn EM algorithm (joint with Amin Nejatbakhsh, Erdem Varol, Jonathan Niles-Weed) is available as a preprint."
   }
 ]
