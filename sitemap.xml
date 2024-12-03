@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gomena.github.io/cv.html</loc>
-    <lastmod>2024-10-02T15:58:38.450Z</lastmod>
+    <loc>https://gomena.github.io/misc.html</loc>
+    <lastmod>2024-12-03T22:27:15.033Z</lastmod>
   </url>
   <url>
-    <loc>https://gomena.github.io/publications.html</loc>
-    <lastmod>2024-10-02T00:29:52.007Z</lastmod>
+    <loc>https://gomena.github.io/highlights.html</loc>
+    <lastmod>2024-12-03T22:21:32.248Z</lastmod>
   </url>
   <url>
-    <loc>https://gomena.github.io/research.html</loc>
-    <lastmod>2024-11-25T21:42:57.695Z</lastmod>
+    <loc>https://gomena.github.io/index.html</loc>
+    <lastmod>2024-12-03T22:29:09.195Z</lastmod>
   </url>
   <url>
     <loc>https://gomena.github.io/teaching.html</loc>
     <lastmod>2024-10-02T00:29:52.008Z</lastmod>
   </url>
   <url>
-    <loc>https://gomena.github.io/index.html</loc>
-    <lastmod>2024-10-02T20:39:04.271Z</lastmod>
+    <loc>https://gomena.github.io/research.html</loc>
+    <lastmod>2024-12-03T22:28:18.294Z</lastmod>
   </url>
   <url>
-    <loc>https://gomena.github.io/highlights.html</loc>
-    <lastmod>2024-12-03T22:21:32.248Z</lastmod>
+    <loc>https://gomena.github.io/publications.html</loc>
+    <lastmod>2024-10-02T00:29:52.007Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gomena.github.io/cv.html</loc>
+    <lastmod>2024-10-02T15:58:38.450Z</lastmod>
   </url>
 </urlset>
